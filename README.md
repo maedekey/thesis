@@ -40,6 +40,8 @@ Go to the server directory:
 ```bash
     >python3 createDB.py
 ```
+
+note: if you are launching this project from an IDE, mark the dilithium directory as a Source Root Directory.
 ## Launch the project:
 ```bash
     >python3 server.py
